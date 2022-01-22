@@ -7,7 +7,7 @@
 Welcome to my github profile!
 
 ```
-
+---
 </div>
 
 
@@ -21,10 +21,11 @@ Welcome to my github profile!
 ```js
 🌴 I know JS, C-SHARP, html/css and more. ✨
 ```
-
+---
 #### Social Links
 ```js
 Instagram Username: aspahiix 
 Discord Tag: هايدن#1400
 Discord Server: Soon
 ```
+---
