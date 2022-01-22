@@ -24,7 +24,7 @@ Welcome to my github profile!
 
 #### Social Links
 ```js
-Instagram: aspahiix
+Instagram: aspahiix 
 Discord Tag: هايدن#1400
 Discord Server: Soon
 ```
