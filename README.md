@@ -25,7 +25,8 @@ Welcome to my github profile!
 #### Social Links
 ```js
 Instagram Username: aspahiix 
-Discord Tag: هايدن#1400
-Discord Server: Soon
+Discord Tag: hix#1400
+Discord Server: https://discord.gg/WRF57JzzjX
+Discord Bot: https://discord.me/sharona
 ```
 ---
