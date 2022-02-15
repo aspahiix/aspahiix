@@ -1,5 +1,5 @@
 
-<h1 align="center"> unreal </h1>
+<h1 align="center"> aspahiix </h1>
 
 <div align="center">
  
@@ -24,9 +24,9 @@ Welcome to my github profile!
 ---
 #### Social Links
 ```js
-Instagram Username: [aspahiix]()
-![GitHub Light](https://shorturl.at/hmyAB)
-Discord Tag: unreal#1400
-
+Instagram Username: aspahiix 
+Discord Tag: hix#1400
+Discord Server: https://discord.gg/WRF57JzzjX
+Discord Bot: https://discord.me/sharona
 ```
 ---
