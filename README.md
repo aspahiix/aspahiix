@@ -24,7 +24,8 @@ Welcome to my github profile!
 ---
 #### Social Links
 ```js
-Instagram Username: [aspahiix](https://shorturl.at/hmyAB)
+Instagram Username: [aspahiix]()
+![GitHub Light](https://shorturl.at/hmyAB)
 Discord Tag: unreal#1400
 
 ```
